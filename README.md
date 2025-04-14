@@ -1,7 +1,8 @@
 ## Olá! Eu me chamo Arthur Calebe!
 
 - 💻 Eu estou estudando: JavaScript
-- 💼 Estou em busca do meu primeiro emprego
+- 💼 Estou em busca do meu primeiro emprego.
+- 📝 Minhas tecnologias: HTML, CSS e JavaScript
   
   ##
   
