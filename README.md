@@ -3,7 +3,7 @@
 - 💻 Eu estou estudando: JavaScript
 - 💼 Estou em busca do meu primeiro emprego.
 - 📝 Minhas tecnologias: HTML, CSS e JavaScript
-- 📚 Pretenção: Me tornar um desenvolvidor Full-stack.
+- 📚 Pretenção: Me tornar um desenvolvedor Full-stack.
   
   ##
   
