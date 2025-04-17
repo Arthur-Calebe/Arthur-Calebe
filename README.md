@@ -21,3 +21,14 @@
   <a href="https://www.linkedin.com/in/arthur-calebe-a411b9319/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<hr>
+
+<div>
+ <img src= "https://github-readme-stats.vercel.app/api?username=Arthur-Calebe&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" target="_blank">
+</div>
+
+<hr>
+<div>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arthur-Calebe&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" target="_blank">
+</div>
