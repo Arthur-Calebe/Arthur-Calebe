@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo Arthur Calebe!
 
-- 💻 Eu estou estudando: JavaScript
+- 💻 Eu estou estudando: JavaScript, Java, Node, React, PostgreSQL.
 - 💼 Estou em busca do meu primeiro emprego.
 - 📝 Minhas tecnologias: HTML, CSS e JavaScript
 - 📚 Pretenção: Me tornar um desenvolvedor Full-stack (Java).
