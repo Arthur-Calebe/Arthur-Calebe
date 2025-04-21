@@ -32,3 +32,8 @@
 <div>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Arthur-Calebe&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" target="_blank">
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CaueCalebe}/count.svg" /></p> 
+<br></div>
