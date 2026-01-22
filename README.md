@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Arthur Calebe!
 
 - 💻 Eu estou estudando: Java, Python.
-- 💼 Estou no primeiro período.
+- 💼 Estou no segundo período na IBMEC.
 - 📝 Minhas tecnologias: Java, Python.
 - 📚 Pretenção: Me tornar um Engenheiro de Software.
   
