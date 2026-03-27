@@ -1,9 +1,9 @@
 ## Olá! Eu me chamo Arthur Calebe!
 
-- 💻 Eu estou estudando: Java, Python.
+- 💻 Eu estou estudando: JavaScript (Front-end) e Java.
 - 💼 Estou no segundo período na IBMEC.
-- 📝 Minhas tecnologias: Java, Python.
-- 📚 Pretenção: Me tornar um Engenheiro de Software.
+- 📝 Minhas tecnologias: HTML, CSS, JavaScript, Java e Python.
+- 📚 Pretenção: Me tornar um Engenheiro de Software Full-Stack.
   
   ##
   
@@ -24,9 +24,5 @@
 </div>
 
 <hr>
-
-<div>
- <img src= "https://github-readme-stats.vercel.app/api?username=Arthur-Calebe&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" target="_blank">
-</div>
 
 <hr>
