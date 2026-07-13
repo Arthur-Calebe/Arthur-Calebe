@@ -17,7 +17,7 @@
 
 ---
 
-## `$ whoami`
+## `$ quem sou eu`
 
 ```yaml
 name:       "Arthur Calebe"
@@ -30,7 +30,7 @@ available:  true
 
 ---
 
-## `$ cat skills.json`
+## `$ minhas skills`
 
 ```json
 {
@@ -70,7 +70,7 @@ available:  true
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/arthurcalebe__/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurcalebe__/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/arthur-calebe-a411b9319)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurcarvalhodas@gmail.com)
 
