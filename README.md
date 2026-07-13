@@ -55,17 +55,6 @@ available:  true
 
 ---
 
-## `$ git log --stats`
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Calebe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Calebe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
-
-</div>
-
----
-
 ## `$ curl --connect arthur`
 
 <div align="center">
